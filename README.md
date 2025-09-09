@@ -1,111 +1,34 @@
-[index.html.html](https://github.com/user-attachments/files/22238833/index.html.html)
-<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manasis Tutorials – Software Testing & AI Basics</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      background: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background: #4a90e2;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    nav {
-      background: #333;
-      padding: 10px;
-    }
-    nav a {
-      color: #fff;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 1000px;
-      margin: auto;
-      padding: 20px;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    h1, h2, h3 {
-      color: #4a90e2;
-    }
-    footer {
-      background: #333;
-      color: #fff;
-      text-align: center;
-      padding: 15px;
-      position: fixed;
-      width: 100%;
-      bottom: 0;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Welcome to Manasis Learning Hub</h1>
-    <p>Learn Software Testing & AI Basics – Simple, Useful, No Coding Required</p>
-  </header>
+<li>ChatGPT and AI Tools</li>
+<li>How AI can help in daily life</li>
+<li>No coding required learning path</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#courses">Courses</a>
-    <a href="#contact">Contact</a>
-  </nav>
 
-  <div class="container">
-    <section id="home">
-      <h2>Home</h2>
-      <p>This platform is designed to help students, professionals, and anyone interested in learning <strong>Software Testing</strong> and <strong>Artificial Intelligence Basics</strong>. No prior coding knowledge required!</p>
-    </section>
+<!-- Contact Section -->
+<section class="py-5" id="contact">
+<div class="container text-center">
+<h2>Contact</h2>
+<p class="mb-1"><strong>Phone:</strong> 8342096592</p>
+<p><strong>Email:</strong> hello.manasis@gmail.com</p>
+<a href="mailto:hello.manasis@gmail.com" class="btn btn-outline-primary">Email Me</a>
+</div>
+</section>
 
-    <section id="about">
-      <h2>About Me</h2>
-      <p>I am <strong>Manasis Mishra</strong>, a Senior QA Specialist with over 15 years of experience in Software Testing, Automation, and Artificial Intelligence tools. My goal is to make learning simple and practical for everyone.</p>
-    </section>
 
-    <section id="courses">
-      <h2>Courses</h2>
-      <h3>Software Testing</h3>
-      <ul>
-        <li>Software Testing Basics</li>
-        <li>Manual Testing</li>
-        <li>Automation with Selenium, Appium, Cypress</li>
-        <li>Performance & Security Testing</li>
-      </ul>
-      <h3>Artificial Intelligence Basics</h3>
-      <ul>
-        <li>Introduction to AI</li>
-        <li>ChatGPT and AI Tools</li>
-        <li>How AI can help in daily life</li>
-        <li>No coding required learning path</li>
-      </ul>
-    </section>
+<!-- Footer -->
+<footer class="bg-primary text-white text-center py-3">
+<p class="mb-0">&copy; 2025 Manasis Learning Hub | Software Testing & AI Basics</p>
+</footer>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p><strong>Phone:</strong> 8342096592</p>
-      <p><strong>Email:</strong> hello.manasis@gmail.com</p>
-    </section>
-  </div>
 
-  <footer>
-    <p>&copy; 2025 Manasis Learning Hub | Software Testing & AI Basics</p>
-  </footer>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
